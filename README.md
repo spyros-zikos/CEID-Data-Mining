@@ -12,4 +12,4 @@ git clone https://github.com/spyros-zikos/CEID-Data-Mining
 
 # About
 
-This project is about analysing the dataset, training classifiers (Multi-layer Perceptron, Random Forests, Naive Bayes) and using clustering algorithms (KMeans, DBSCAN, Birch).
+The dataset is about Human Activity Recognition Trondheim. This project is analysing the dataset, training classifiers (Multi-layer Perceptron, Random Forests, Naive Bayes) and using clustering algorithms (KMeans, DBSCAN, Birch).
