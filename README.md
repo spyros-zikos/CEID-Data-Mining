@@ -4,7 +4,7 @@
 ```shell
 git clone https://github.com/spyros-zikos/CEID-Data-Mining
 ```
-  and unzip it.
+ &nbsp; &nbsp; &nbsp; &nbsp;and unzip it.
 
 2. Download the dataset from [here](https://archive.ics.uci.edu/dataset/779/harth) and unzip it.
 
